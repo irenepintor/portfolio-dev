@@ -1,3 +1,41 @@
+Initial commit looking like this:
+
+![portfolio](https://github.com/irenepintor/portfolio-dev/assets/103829940/463cf448-8a9d-4ee9-b1c7-918d813ffdd6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Astro Starter Kit: Basics
 
 ```sh
